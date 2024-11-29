@@ -21,6 +21,8 @@
 [![Website - upayan.space](https://img.shields.io/badge/Website-upayan.space-blue?)](https://upayan.space)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1240025366853193758) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/upayan.mazumder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._upayan_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/upayanmazumder/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/upayanmazumder/) 
 
+<a href="https://gitroll.io/profile/u4rBKVeTkTWZZvpEnwXbjN2nUfLJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4rBKVeTkTWZZvpEnwXbjN2nUfLJ3?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 # 💻 Tech Stack:
 
 <a href="https://www.linkedin.com/in/jemartel/" target="_blank">
