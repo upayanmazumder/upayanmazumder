@@ -1,11 +1,13 @@
 
 🎓 [BTech] Computer Science @ VIT Vellore<br>🎓 [BS] Data Science & Applications @ IIT Madras<br>🌱 Aspiring Data Scientist 🌐<br>📍 Home: Siliguri 🏡 Current: Vellore 🏙️ (for college!)<br>🧑‍💻Currently working on Collaborative Article Sharing
 
-[![IIT-Madras - Data Science](https://img.shields.io/badge/IIT--Madras-Data_Science-d6a64f?)](https://ds.study.iitm.ac.in/student/24F2002974)
-[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?&logo=Gravatar&logoColor=white)](https://gravatar.com/upayanmazumder)
-[![Website - upayan.dev](https://img.shields.io/badge/Website-upayan.dev-blue?)](https://upayan.dev)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wQTZcXpcaY) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/upayan.mazumder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/upayan.mazumder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/upayanmazumder)
-
+[![IIT Madras - Data Science](https://img.shields.io/badge/IIT--Madras-Data_Science-black?style=for-the-badge&logo=gradle&logoColor=d6a64f)](https://ds.study.iitm.ac.in/student/24F2002974)
+[![Gravatar](https://img.shields.io/badge/Gravatar-black?style=for-the-badge&logo=Gravatar&logoColor=1E8CBE)](https://gravatar.com/upayanmazumder)
+[![Website](https://img.shields.io/badge/Website-upayan.dev-black?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://upayan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/upayanmazumder)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/wQTZcXpcaY)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/upayan.mazumder)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/upayan.mazumder)
 
 ![](https://github-readme-stats.vercel.app/api?username=upayanmazumder&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
 
