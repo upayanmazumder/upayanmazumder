@@ -6,4 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/wQTZcXpcaY)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/upayan.mazumder)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3zcqo5l4w54m5gh1or67mrist&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 [![Sponsor upayanmazumder](https://img.shields.io/badge/Sponsor-upayanmazumder-000000?style=for-the-badge&logo=github)](https://github.com/sponsors/upayanmazumder)&nbsp;&nbsp;[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/upayan)
