@@ -1,6 +1,3 @@
-
-🎓 [BTech] Computer Science @ VIT Vellore<br>🎓 [BS] Data Science & Applications @ IIT Madras<br>📍 Location: 🇮🇳 India
-
 [![Website](https://img.shields.io/badge/Website-upayan.dev-black?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://upayan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/upayanmazumder)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/wQTZcXpcaY)
