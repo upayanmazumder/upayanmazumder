@@ -8,5 +8,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upayanmazumder&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upayanmazumder&theme=github_dark)
-
-<img src="https://wakatime.com/share/@upayanmazumder/184b0886-427a-451c-8669-b9bce892557b.svg" alt="Wakatime Stats" width="700"/>
