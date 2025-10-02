@@ -11,3 +11,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upayanmazumder&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upayanmazumder&theme=github_dark)
+
+[![An image of @upayanmazumder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/upayanmazumder)](https://holopin.io/@upayanmazumder)
