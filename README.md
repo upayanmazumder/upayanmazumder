@@ -13,11 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upayanmazumder&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upayanmazumder&theme=github_dark" />
-</p>
-
-<p align="center">
   <a href="https://holopin.io/@upayanmazumder">
     <img src="https://holopin.me/upayanmazumder" alt="@upayanmazumder's Holopin badges" />
   </a>
