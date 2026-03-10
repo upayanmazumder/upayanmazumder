@@ -16,9 +16,7 @@ Developer focused on infrastructure, distributed systems, and developer platform
 
 ### Stack
 
-Go · TypeScript · JavaScript · Node.js · React · Next.js
-Docker · Kubernetes · Linux · CI/CD
-PostgreSQL · MongoDB · Redis
+TypeScript · JavaScript · Node.js · React · Next.js · Docker · Kubernetes · Linux · CI/CD · PostgreSQL · MongoDB · Redis
 
 ---
 
