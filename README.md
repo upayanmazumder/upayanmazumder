@@ -1,7 +1,5 @@
-<h1 align="center">Upayan Mazumder</h1>
-
 <p align="center">
-Developer focused on infrastructure, distributed systems, and developer platforms.
+I focus on infrastructure, distributed systems, and developer platforms.
 </p>
 
 <p align="center">
@@ -16,7 +14,7 @@ Developer focused on infrastructure, distributed systems, and developer platform
 
 ### Stack
 
-TypeScript · JavaScript · Node.js · React · Next.js · Docker · Kubernetes · Linux · CI/CD · PostgreSQL · MongoDB · Redis
+TypeScript · Node.js · Next.js · Docker · Kubernetes · CI/CD · PostgreSQL · MongoDB · Redis
 
 ---
 
