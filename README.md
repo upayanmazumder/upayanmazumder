@@ -14,7 +14,7 @@ I focus on infrastructure, distributed systems, and developer platforms.
 
 ### Stack
 
-TypeScript · Node.js · Next.js · Docker · Kubernetes · CI/CD · PostgreSQL · MongoDB · Redis
+TypeScript · Go · Python · Node.js · Next.js · PostgreSQL · Redis · Docker · Kubernetes · ArgoCD · CI/CD
 
 ---
 
