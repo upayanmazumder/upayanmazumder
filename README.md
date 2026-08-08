@@ -30,10 +30,10 @@ Kubernetes-native platform for deploying Dockerized applications with automated 
 Competitive programming contest platform powering CookOff 10.
 
 **[FFCS Inator](https://github.com/CodechefVIT/ffcs)**
-Timetable planning platform used by 10k+ students.
+Timetable planning platform used by 33k+ students.
 
 **[Papers](https://github.com/CodechefVIT/papers-codechef)**
-Exam archive platform serving 45k+ users with optimized delivery.
+Exam archive platform serving 90k+ users with optimized delivery.
 
 <p align="center">
   <a href="https://holopin.io/@upayanmazumder">
