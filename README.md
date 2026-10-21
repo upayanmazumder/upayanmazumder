@@ -10,6 +10,10 @@ I focus on infrastructure, distributed systems, and developer platforms.
   <a href="https://github.com/sponsors/upayanmazumder">Sponsor</a>
 </p>
 
+<p align="center">
+Check out my <a href="https://github.com/upayanmazumder/dotfiles">dotfiles</a> and <a href="https://github.com/upayanmazumder/cluster">cluster</a>
+</p>
+
 ---
 
 ### Stack
