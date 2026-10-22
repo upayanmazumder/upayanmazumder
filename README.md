@@ -39,10 +39,4 @@ Timetable planning platform used by 33k+ students.
 **[Papers](https://github.com/CodechefVIT/papers-codechef)**
 Exam archive platform serving 90k+ users with optimized delivery.
 
-<p align="center">
-  <a href="https://holopin.io/@upayanmazumder">
-    <img src="https://holopin.me/upayanmazumder" />
-  </a>
-</p>
-
 ---
