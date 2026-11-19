@@ -1,5 +1,5 @@
 <p align="center">
-I focus on infrastructure, distributed systems, and developer platforms.
+Infrastructure, distributed systems, and developer platforms.
 </p>
 
 <p align="center">
@@ -11,32 +11,20 @@ I focus on infrastructure, distributed systems, and developer platforms.
 </p>
 
 <p align="center">
-Check out my <a href="https://github.com/upayanmazumder/dotfiles">dotfiles</a> and <a href="https://github.com/upayanmazumder/cluster">cluster</a>
+  <a href="https://github.com/upayanmazumder/dotfiles">dotfiles</a> ·
+  <a href="https://github.com/upayanmazumder/cluster">cluster</a>
 </p>
 
----
+### About
 
-### Stack
+- Junior Software Engineer (Part-Time) at **797th LLC** — backend, Rust, and AI pipelines.
+- Stack: TypeScript, Go, Rust, Python, Node.js, Next.js, PostgreSQL, Redis, Docker, Kubernetes, Helm, ArgoCD.
+- Open source: [SeaweedFS](https://github.com/seaweedfs/seaweedfs/pull/11614)
 
-TypeScript · Go · Python · Node.js · Next.js · PostgreSQL · Redis · Docker · Kubernetes · ArgoCD · CI/CD
+### Work
 
----
-
-### Some of my work
-
-**[DevSOC'26](https://github.com/CodeChefVIT/devsoc-landing-26)**
-Seventh edition of DevSOC, blending AI and the metaverse to solve real-world challenges.
-
-**[Kargo](https://github.com/GDGVIT/kargo-backend)**
-Kubernetes-native platform for deploying Dockerized applications with automated CI/CD.
-
-**[CookOff 10](https://github.com/CodeChefVIT/cookoff-portal-10.0)**
-Competitive programming contest platform powering CookOff 10.
-
-**[FFCS Inator](https://github.com/CodechefVIT/ffcs)**
-Timetable planning platform used by 33k+ students.
-
-**[Papers](https://github.com/CodechefVIT/papers-codechef)**
-Exam archive platform serving 90k+ users with optimized delivery.
-
----
+- **[DevSOC'26](https://github.com/CodeChefVIT/devsoc-landing-26)** — Hackathon platform.
+- **[Kargo](https://github.com/GDGVIT/kargo-backend)** — Kubernetes-native application deployment platform.
+- **[CookOff 10](https://github.com/CodeChefVIT/cookoff-portal-10.0)** — Competitive programming contest platform.
+- **[FFCS Inator](https://github.com/CodechefVIT/ffcs)** — Timetable planner used by 33k+ students.
+- **[Papers](https://github.com/CodechefVIT/papers-codechef)** — Exam archive serving 90k+ users.
