@@ -19,4 +19,3 @@ Infrastructure, distributed systems, and developer platforms.
 
 - Junior Software Engineer at [797th LLC](https://797th.com/) - backend, Rust, and AI pipelines.
 - Stack: TypeScript, Go, Rust, Python, Node.js, Next.js, PostgreSQL, Redis, Docker, Kubernetes, Helm, ArgoCD.
-- Open source: [SeaweedFS](https://github.com/seaweedfs/seaweedfs/pull/11614)
