@@ -23,8 +23,8 @@ Infrastructure, distributed systems, and developer platforms.
 
 ### Work
 
-- **[DevSOC'26](https://github.com/CodeChefVIT/devsoc-landing-26)** — Hackathon platform.
+- **[Papers](https://github.com/CodechefVIT/papers-codechef)** — Exam archive serving 90k+ users.
+- **[FFCS Inator](https://github.com/CodechefVIT/ffcs)** — Timetable planner used by 33k+ students.
 - **[Kargo](https://github.com/GDGVIT/kargo-backend)** — Kubernetes-native application deployment platform.
 - **[CookOff 10](https://github.com/CodeChefVIT/cookoff-portal-10.0)** — Competitive programming contest platform.
-- **[FFCS Inator](https://github.com/CodechefVIT/ffcs)** — Timetable planner used by 33k+ students.
-- **[Papers](https://github.com/CodechefVIT/papers-codechef)** — Exam archive serving 90k+ users.
+- **[DevSOC'26](https://github.com/CodeChefVIT/devsoc-landing-26)** — Hackathon platform.
